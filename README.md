@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BreaG
-- 👀 I’m interested in robotics and spacecraft
-- 🌱 I’m currently learning python and c
+- 👀 I’m interested in coding and cybersecurity
+- 🌱 I’m currently learning python, c pentesting and linux
 
 <!---
 Hope you enjoy my repository and hope it helps you a little
